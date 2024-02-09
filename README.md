@@ -1,6 +1,6 @@
 # Block Trace: A Technical Exploration
 
-**Block Trace** provides a technical deep dive into the intricacies of coin mixing, crypto asset encryption, and the methodologies employed by national security experts to trace transactions, with a specific emphasis on coin mixing. It refrains from delving into the motives of criminals and instead focuses on the advanced techniques employed by experts in the field. The document discusses the technical aspects of money laundering, terrorist financing, and the intricate methods used by national security experts, researchers, and forensic analysts.
+**Block Trace** provides a technical deep dive into the intricacies of coin mixing, crypto asset encryption, and the methodologies employed by national security experts to trace transactions, with a specific emphasis on coin mixing. The document discusses the technical aspects of money laundering, terrorist financing, and the intricate methods used by national security experts, researchers, and forensic analysts.
 
 ## Introduction
 
